@@ -1,4 +1,4 @@
-package com.example.apo.tp1;
+package com.example.apo.tp1.exercice1;
 
 public class Test {
 
